@@ -3,13 +3,14 @@ Agoritmo: somatorio
 //crie uma aplicacao que mostre ao utilizador o somatorio de 1 a n
 
 var
-somatorio <-long (n) <- inteiro
-    num <- inteiro
+n <- inteiro
+num <- inteiro
+
 
 inicio
-    escrever("insira um num natural")
-    ler("%d", &n)
-    escrever(" O somatorio de %d é igual a %d", num, somatorio(num))
+    escrever("Insira um numero natural: ")
+    ler (n)
+    escrever(" O somatorio)
     
 
 somatorio <- long (n) <- inteiro
