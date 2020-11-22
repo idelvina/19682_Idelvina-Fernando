@@ -1,0 +1,21 @@
+Agoritmo: somatorio
+
+//crie uma aplicacao que mostre ao utilizador o somatorio de 1 a n
+
+var
+somatorio <-long (n) <- inteiro
+    num <- inteiro
+
+inicio
+    escrever("insira um num natural")
+    ler("%d", &n)
+    escrever(" O somatorio de %d é igual a %d", num, somatorio(num))
+    
+
+somatorio <- long (n) <- inteiro
+    i, x <- inteiro
+    para(i <- 1, x = 0; i <= n; i ++)
+        x = x + i;
+   
+
+ fimAlgoritmo
